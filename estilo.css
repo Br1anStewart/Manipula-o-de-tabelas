@@ -1,0 +1,59 @@
+table{
+    width: 100%;
+}
+#vazio1{
+    height: 160px;
+    width: 10%;
+}
+#vazio2{
+    height: 160px;
+    width: 7%;
+}
+#verde{
+background-color: rgb(218, 247, 174);
+width: 15%;
+height: 680px;
+text-align: center;
+}
+#azul{
+    background-color: rgb(107, 193, 255);
+    width: 60%;
+    height: 680px;
+    vertical-align: top;
+    font-size: 24px;
+    padding: 20px;
+    text-align: justify;
+    
+}
+#amarelo{ background-color: rgba(247, 247, 104, 0.63);
+    width: 10%;
+    height:    600px;
+}
+#laranja{
+    background-color: orange;
+    width: 3%;
+    
+}
+#cinza{
+background-color: lightgray;}
+
+#cinza2{
+    background-color: lightgray;
+}
+
+#cinza3{
+background-color: lightgray;
+height: 155px;
+}
+
+#vermelho{
+    background-color: rgba(255, 0, 0, 0.315);
+    height: 50px;
+}
+
+#azul2{
+    background-color: rgb(107, 193, 255);
+}
+#logo{
+    text-align: center;
+}
